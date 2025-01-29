@@ -1,3 +1,1 @@
-Dennis Gesengi
-dennisgesengi@gmail.com
-I love computers
+Hello! Am a data analyst!
